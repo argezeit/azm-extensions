@@ -1,6 +1,6 @@
 {
-	"name": "azm/azm-extensions",
-	"description" : "Some Extensions to use with ZF2",
+	"name": "argezeit/azm-extensions",
+	"description" : "Some Extensions for use with Zend Framework 2",
 	"license": "MIT",
 	"type": "library",
 	"autoload": {
