@@ -9,7 +9,6 @@
  * file that was distributed with this source code.
  */
 
-
 namespace Azm\Mvc\View\Http;
 
 use Zend\EventManager\AbstractListenerAggregate;
